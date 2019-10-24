@@ -1,0 +1,2 @@
+F:\HQ\HQ\bin\Debug\HQ.exe.config
+D:\HQ\HQ\bin\Debug\HQ.exe.config
